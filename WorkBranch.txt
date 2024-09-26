@@ -1,2 +1,7 @@
 branch
+<<<<<<< HEAD
 changes from main
+=======
+more text
+changes from branch2
+>>>>>>> branches2
